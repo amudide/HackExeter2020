@@ -37,7 +37,7 @@ h2 {
 /* start title */
 .title h2
 	{
-		color: #7AD03A;
+		color: #C70039;
 		font-size: 40px;
 		font-weight: bold;
 		letter-spacing: 4px;
@@ -77,7 +77,7 @@ h2 {
 	{
   		width: 18px;
   		height: 18px;
-  		background-color: #7AD03A;
+  		background-color: #C70039;
   		border-radius: 100%;
   		display: inline-block;
         -webkit-animation: sk-threeBounceDelay 1.4s infinite ease-in-out;
@@ -184,7 +184,7 @@ ul.countdown li h3
 	}
 #countdown input[type="submit"]
 	{
-		background: #7AD03A;
+		background: #C70039;
 		color: #ffffff;
 		transition: all 0.3s ease;
 	}
@@ -202,9 +202,9 @@ ul.countdown li h3
 	}
 .features .fa
 	{
-		border: 1px solid #7AD03A;
+		border: 1px solid #C70039;
 		border-radius: 50%;
-		color: #7AD03A;
+		color: #C70039;
 		font-size: 26px;
 		width: 60px;
 		height: 60px;
@@ -246,7 +246,7 @@ ul.countdown li h3
   }
 .team .media h5
   {
-    color: #7AD03A;
+    color: #C70039;
     font-weight: bold;
     padding-bottom: 8px;
   }
@@ -291,7 +291,7 @@ ul.countdown li h3
 		transition: all 0.3s ease;
 	}
 .contact input[type="submit"]:hover {
-	background-color: #7AD03A;
+	background-color: #C70039;
 }
 .contact address
 	{
@@ -360,7 +360,7 @@ footer p
   }
 .social_icon li a:hover
   {
-    background: #7AD03A;
+    background: #C70039;
   }
 /* end social icon */
 
