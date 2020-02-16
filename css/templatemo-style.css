@@ -190,7 +190,7 @@ ul.countdown li h3
 		transition: all 0.3s ease;
 	}
 #countdown input[type="submit"]:hover {
-	background: #417F12;
+	background: #000000;
 }
 /* end countdown */
 
