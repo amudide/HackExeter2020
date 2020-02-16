@@ -122,11 +122,12 @@ h2 {
 /* start countdown */
 #countdown
 	{
-  		background: linear-gradient(90deg, #FF512F 10%, #DD2476 90%);
+  		background-image: url('../images/background.png');
   		color: #ffffff;
 		text-align: center;
 		min-height: 800px;
 		padding: 140px 0 100px 0;
+		background-size: cover;
 	}
 #countdown h1
 	{
