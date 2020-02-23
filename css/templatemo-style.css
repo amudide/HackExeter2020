@@ -3,7 +3,9 @@ Coming Template
 http://www.templatemo.com/preview/templatemo_447_coming
 */
 
-
+h1 {
+	font-family: 'Roboto Mono', sans-serif;
+}
 body
 	{
 		background: #ffffff;
