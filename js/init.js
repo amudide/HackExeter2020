@@ -3,7 +3,7 @@
 $(document).ready(function() {
 						   
 	$("#countdown").countdown({
-				date: "18 April 2020 8:00:00",
+				date: "15 May 2021 8:00:00",
 				format: "on"
 			},
 			
