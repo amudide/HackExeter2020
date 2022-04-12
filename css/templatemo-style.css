@@ -246,6 +246,7 @@ ul.countdown li h3
 .team .media
   {
     padding: 40px 0 20px 20px;
+	height: 30rem;
   }
 .team .media h5
   {
@@ -256,7 +257,8 @@ ul.countdown li h3
 .team img
   {
     max-width: 170px;
-    height: auto;
+    height: 25rem;
+	object-fit: cover;
     margin-right: 10px;
   }
 /* end team */
